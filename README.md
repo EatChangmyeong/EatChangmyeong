@@ -8,7 +8,7 @@ Take a look at <https://eatch.dev/> (Korean; *still* work in progress) or <https
 
 ## Languages I am comfortable with
 
-![C](https://img.shields.io/badge/-C-%23a8b9cc?logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599c?logo=C%2b%2b&logoColor=white) ![GML (2.3.x)](https://img.shields.io/badge/GML-2.3.x-%23white) ![Java](https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1e?logo=JavaScript&logoColor=white) ![Korean](https://img.shields.io/badge/-Korean-%23134a9d) ![Rust](https://img.shields.io/badge/-Rust-%23000000?logo=Rust&logoColor=white)
+![C](https://img.shields.io/badge/-C-%23a8b9cc?logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599c?logo=C%2b%2b&logoColor=white) ![GML (2.3.x)](https://img.shields.io/badge/GML-2.3.x-white) ![Java](https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1e?logo=JavaScript&logoColor=white) ![Korean](https://img.shields.io/badge/-Korean-%23134a9d) ![Rust](https://img.shields.io/badge/-Rust-%23000000?logo=Rust&logoColor=white)
 
 ## solved.ac
 
